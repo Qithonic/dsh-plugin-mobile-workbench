@@ -1,0 +1,8 @@
+﻿{
+  "name": "dsh-plugin-mobile-workbench",
+  "version": "0.1.0",
+  "description": "DeepSeek Harness plugin: Personal mobile web workbench with voice input and customizable panels.",
+  "entry": "./src/index.ts",
+  "client": "./src/client/index.tsx",
+  "tags": ["dsh-plugin", "deepseek-harness"]
+}
